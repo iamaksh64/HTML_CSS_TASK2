@@ -1,0 +1,50 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  /* border: 1px solid #ddd; */
+  border:none;
+  margin:0;
+  padding:0;
+}
+
+.table1{
+  border:1px solid #000;
+}
+.container {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.title {
+  margin: 3px;
+  padding: 10px;
+  overflow: hidden;
+}
+.retail {
+  float: left;
+  text-align:right;
+  width: 50%;
+}
+.original {
+  margin-left:360px;
+}
+.content {
+  border: none;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 3px;
+}
+
+td {
+  padding:5px 10px;
+  border-spacing: 0;
+}
+
+
+.table3{
+  border:1px solid #ddd;
+}
+/* 
+.table3{
+  border-top: 1px solid #ddd;
+} */
+
